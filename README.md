@@ -1,3 +1,3 @@
-# mongo-test
+# sails-issue-3805
 
-a [Sails](http://sailsjs.org) application
+See https://github.com/balderdashy/sails/issues/3805
